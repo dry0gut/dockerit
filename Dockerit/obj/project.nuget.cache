@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VRbxCSwSPymWbJ5vZnW2QTf/R92VviSAvnyIedqbmSql1Y9jnuGpTzP2+gkdwbnt7O+JNMTRCSLmmcEvRCM91w==",
+  "success": true,
+  "projectFilePath": "C:\\Devnet\\Dockerit\\Dockerit\\Dockerit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
